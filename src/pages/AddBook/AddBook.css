@@ -1,0 +1,24 @@
+.imgbox {
+  background-color: #f3f3f3;
+}
+
+.inpo {
+  width: 75%;
+  border-radius: 10px;
+  border: 1px solid grey;
+  margin: 10px 0;
+  padding: 10px;
+}
+.btnn {
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #152540;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}

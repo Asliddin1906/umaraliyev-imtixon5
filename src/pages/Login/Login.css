@@ -1,0 +1,21 @@
+.login {
+  height: 100vh;
+}
+
+.login-img {
+  background-color: #C9AC8C;
+  padding: 4.9% ;
+}
+
+.login-inp {
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin: 10px 0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.btnm {
+  background-color: #152540;
+}
